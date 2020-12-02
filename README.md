@@ -1,7 +1,7 @@
 ### nginx-port-forwarding
 
 #### Commands (for instance : ubuntu os)
-- first update your os's packages : sudo apt update
+- first update your os's packages : `sudo apt update`
 - install nginx on your server : sudo apt install nginx
 - enable nginx service : sudo systemctl enable nginx
 - start nginx service : sudo systemctl start nginx
